@@ -1,0 +1,14 @@
+substances30.sdf 
+substances9.sdf 
+substances50.sdf 
+substances18.sdf 
+substances7.sdf 
+substances22.sdf 
+substances2.sdf 
+substances39.sdf 
+substances11.sdf 
+substances24.sdf 
+substances27.sdf 
+substances19.sdf 
+substances51.sdf 
+substances33.sdf 
